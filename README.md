@@ -11,14 +11,31 @@
       <h4> O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML(YPERTEXT MARKUP LANGUAGE), CSS(CASCADING STYLE SHEETS), SVG(SCALABLE VECTOR GRAPHICS), XML(EXTENSIBLE MARKUP LANGUAGE), WCMAG(WEB CONTENT ACESSIBILITY GUIDELINESS)
       </h4>
             <h1 id="HTML" > HTML5 </h1>
-            <p> Tag´s são etiquetas que usamos no HTML para marcsr os elementos do nosso código, determinando onde ele começa e termina. 
+            <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina. 
                   <br/>
             <img <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
                   <br/>
-              As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja abaixo uma lista com várias tags do HTML 
-            <img ![Html-tags-chart-1-2048] src= "https://github.com/user-attachments/assets/2f199f2c-81c3-4faa-ac87-c4ea5db58c94" />    
+              As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML
+                    <br/>
+                    <a>https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
+                    <br/>
+            </p>
+            <p>
+                 <table> Segeue links de Cursos para HTML </table>
+                 <thead>
+                       <th>Cursos</th>
+                       <th>Professor</th>
+                       <th>Link</th>
+                 </thead>
+                 <body>
+                       <td>Cursos</td>
+                       <td>Professor</td>
+                       <a>Link</a>                
+                 </body>                  
+            </p>
       </div> 
 </div> 
+
 
 
 
