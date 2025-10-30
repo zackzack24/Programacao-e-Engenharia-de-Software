@@ -22,13 +22,14 @@
             </p>
             <p>
                  <table> Segeue links de Cursos para HTML </table>
-                  | Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-                  |-------------|-------------|-------------|
-                  | Dados 1     | Dados 2     | Dados 3     |
-                  | Dados 4     | Dados 5     | Dados 6     |                  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |                  
             </p>
       </div> 
 </div> 
+
 
 
 
