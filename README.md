@@ -1,4 +1,4 @@
-<div id="readme style="width: 50%; margin: 0 auto; border: 1px solid black; text-align: center;">  
+<div id="readme style="width: 100; height="200"; margin: 0 auto; border: 1px solid black; text-align: center;">  
 <div id="imagem1"> 
       <img width="100" height="200" alt="2721284" src="https://github.com/user-attachments/assets/0cb82e3e-bc3b-408f-ab67-25c6bcd3ade0" /> 
       <img width="100" height="200" alt="sticker-png-circle-design-software-engineering-computer-software-technology-logo-federal-university-of-pampa-symbol-microsoft-azure" src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    </div> 
@@ -9,8 +9,19 @@
       Nos dias de hoje a internet segue padrões da W3C (World Wide Web Consortium) veja todos no site oficial https://www.w3.org/.</h4>  
       <h4> O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML(YPERTEXT MARKUP LANGUAGE), CSS(CASCADING STYLE SHEETS), SVG(SCALABLE VECTOR GRAPHICS), XML(EXTENSIBLE MARKUP LANGUAGE), WCMAG(WEB CONTENT ACESSIBILITY GUIDELINESS)
       </h4>
+            <h1> HTML5 </h1>
+            <p> Tag´s são etiquetas que usamos no HTML para marcsr os elementos do nosso código, determinando onde ele começa e termina.
+            <img <img width="100" height="200" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
+              As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja abaixo uma lista com várias tags do HTML 
+             <img width="500" height="1000" ![R](https://github.com/user-attachments/assets/b09294d6-2038-4342-b0c9-d00ef6d9362f) />
+               
+            </p>
       </div>
+
+
+      
 </div> 
+
 
 
 
