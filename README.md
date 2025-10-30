@@ -10,17 +10,16 @@
       <h4> O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML(YPERTEXT MARKUP LANGUAGE), CSS(CASCADING STYLE SHEETS), SVG(SCALABLE VECTOR GRAPHICS), XML(EXTENSIBLE MARKUP LANGUAGE), WCMAG(WEB CONTENT ACESSIBILITY GUIDELINESS)
       </h4>
             <h1> HTML5 </h1>
-            <p> Tag´s são etiquetas que usamos no HTML para marcsr os elementos do nosso código, determinando onde ele começa e termina.
-            <img <img width="100" height="200" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
+            <p> Tag´s são etiquetas que usamos no HTML para marcsr os elementos do nosso código, determinando onde ele começa e termina. 
+                  <br/>
+            <img <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
+                  <br/>
               As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja abaixo uma lista com várias tags do HTML 
-             <img width="500" height="1000" ![R](https://github.com/user-attachments/assets/b09294d6-2038-4342-b0c9-d00ef6d9362f) />
-               
+             <img width="500" height="200" ![R](https://github.com/user-attachments/assets/b09294d6-2038-4342-b0c9-d00ef6d9362f) />
             </p>
-      </div>
-
-
-      
+      </div>    
 </div> 
+
 
 
 
