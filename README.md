@@ -15,10 +15,13 @@
             <img <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
                   <br/>
               As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja abaixo uma lista com várias tags do HTML 
-             <img width="500" height="200" ![R](https://github.com/user-attachments/assets/b09294d6-2038-4342-b0c9-d00ef6d9362f) />
+            <img width="500" height="200" src="https://github.com/user-attachments/assets/b09294d6-2038-4342-b0c9-d00ef6d9362f"/>
+            <img ![Html-tags-chart-1-2048] src= "https://github.com/user-attachments/assets/2f199f2c-81c3-4faa-ac87-c4ea5db58c94" />
+
             </p>
       </div>    
 </div> 
+
 
 
 
