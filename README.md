@@ -22,6 +22,7 @@
 | DOM | Document Object Model | <a> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model | <img width="100" height="200" src="https://github.com/user-attachments/assets/39813ef5-b998-4363-9335-662d082b3eb7" /> |
 | API | Application Programming Interface | <a> https://aws.amazon.com/pt/what-is/api/ | <img width="100" height="200" src="https://github.com/user-attachments/assets/47df9ac5-a1e3-47a5-8713-c724c3248dbb" /> |
 | SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="https://github.com/user-attachments/assets/1763f66b-09d9-4c83-8c7a-6e020319dba0" /> |
+
             <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina. 
                   <br/>
             <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
@@ -39,6 +40,7 @@
 | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
  
+
 
 
 
