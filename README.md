@@ -1,7 +1,7 @@
 <header id=cabecalho margin: 0 auto;> 
 <div id="readmeheader style="width: 100; height="200"; margin: 0 auto; border: 1px solid black; text-align: center >  
-      <img width="50%" height="50%" alt="2721284" src="https://github.com/user-attachments/assets/0cb82e3e-bc3b-408f-ab67-25c6bcd3ade0" /> 
-      <img width="50%" height="50%" alt="sticker-png-circle-design-software-engineering-computer-software-technology-logo-federal-university-of-pampa-symbol-microsoft-azure" src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    
+      <img width="25%" height="15%" alt="2721284" src="https://github.com/user-attachments/assets/0cb82e3e-bc3b-408f-ab67-25c6bcd3ade0" /> 
+      <img width="25%" height="15%" alt="sticker-png-circle-design-software-engineering-computer-software-technology-logo-federal-university-of-pampa-symbol-microsoft-azure" src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    
       <div id=textos>   
             <h1> HTML5 </h1>
             <img width="100" height="200" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3814711d-a52a-485c-8d93-ced5c2ba877b" />
@@ -43,6 +43,7 @@
 </footer>
 
 </div>
+
 
 
 
