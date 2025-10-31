@@ -21,16 +21,16 @@
 | URL | Uniform Resource Locator | <a> https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL | <img width="100" height="200" alt="6785664" src="https://github.com/user-attachments/assets/05c8dfce-f007-443d-8914-e1a2927840c6" />|
 | DOM | Document Object Model | <a> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model | <img width="100" height="200" src="https://github.com/user-attachments/assets/39813ef5-b998-4363-9335-662d082b3eb7" /> |
 | API | Application Programming Interface | <a> https://aws.amazon.com/pt/what-is/api/ | <img width="100" height="200" src="https://github.com/user-attachments/assets/47df9ac5-a1e3-47a5-8713-c724c3248dbb" /> |
-| SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="https://github.com/user-attachments/assets/7f94c81e-abed-49e4-b3a0-35fedf969cd9)" />  |
-            <h1 id="HTML" > HTML5 </h1>
+| SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="https://github.com/user-attachments/assets/7f94c81e-abed-49e4-b3a0-35fedf969cd9" />  |
             <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina. 
                   <br/>
-            <img <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
+            <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
                   <br/>
              <p> As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML
                     <br/>
                     <a> https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
                     <br/>
+                    
 ### Segue Abaixo alguns links com bons cursos com HTML 
 
 | Professor | Curso | Plataforma | Link |
@@ -39,6 +39,7 @@
 | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
  
+
 
 
 
