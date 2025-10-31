@@ -25,10 +25,12 @@
 
 | Professor | Curso | Plataforma | Link |
 | --- | --- | --- | --- |
-| Gustavo Guanabara | HTML 5 e CSS3 | YOUTUBE | <a> https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
+| Gustavo Guanabara | HTML 5 e CSS3 | YOUTUBE | <a> https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n | 
+| Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
       </div> 
 </div> 
+
 
 
 
