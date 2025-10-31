@@ -20,7 +20,13 @@
                     <a>https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
                     <br/>
             </p>
-### Segue abaixo alguns links de bons cursos com HTML 
+                    
+### Customization
+
+You can customize the appearance of all your cards however you wish with URL parameters.
+
+#### Common Options
+
 | Name | Description | Type | Default value |
 | --- | --- | --- | --- |
 | `title_color` | Card's title color. | string (hex color) | `2f80ed` |
@@ -35,6 +41,7 @@
 | `border_radius` | Corner rounding on the card. | number | `4.5` |
       </div> 
 </div> 
+
 
 
 
