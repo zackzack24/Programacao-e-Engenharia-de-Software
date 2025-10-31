@@ -21,12 +21,14 @@
                     <br/>
             </p>
 ### Segue abaixo alguns links de bons cursos com HTML 
-| Professor | Curso | Link |
-| Gustavo Guanabara | HTMK 5 e CSS3 | <a> https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n </a> |
-| Rafaella Ballerini | Curso Completo de HTML | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=1s </a> |
-| Otávio Miranda | HTML e CSS | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA</a> |
+| Professor | Curso | Link | Plataforma |
+| --- | --- | --- | --- |
+| Gustavo Guanabara | HTMK 5 e CSS3 | <a> https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n </a> | | YOUTUBE |
+| Rafaella Ballerini | Curso Completo de HTML | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=1s </a> | | YOUTUBE |
+| Otávio Miranda | HTML e CSS | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA</a> | | YOUTUBE |
       </div> 
 </div> 
+
 
 
 
