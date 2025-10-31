@@ -19,20 +19,18 @@
 | JS | Java Script | <a> https://developer.mozilla.org/en-US/docs/Web/JavaScript | <img width="100" height="200"  src="https://github.com/user-attachments/assets/9f776249-a467-49b8-a595-e7dfddd87e0b" /> |
 | HTTP | Hypertext Transfer Protocol | <a> https://developer.mozilla.org/pt-BR/docs/Web/HTTP | <img width="100" height="200" alt="1276470" src="https://github.com/user-attachments/assets/a0f3e97e-919f-4224-b43b-284e3ab0c875" /> |
 | URL | Uniform Resource Locator | <a> https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL | <img width="100" height="200" alt="6785664" src="https://github.com/user-attachments/assets/05c8dfce-f007-443d-8914-e1a2927840c6" />|
-| DOM | Document Object Model | <a> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model | <img width="100" height="200" src="![dom-document-object-model-acronym-260nw-1860158314](https://github.com/user-attachments/assets/39813ef5-b998-4363-9335-662d082b3eb7)" /> |
-| API | Application Programming Interface | <a> https://aws.amazon.com/pt/what-is/api/ | <img width="100" height="200" src="![dom-document-object-model-acronym-260nw-1862036329](https://github.com/user-attachments/assets/47df9ac5-a1e3-47a5-8713-c724c3248dbb)" /> |
-| SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="![1000_F_302893333_DUSQXVlpzqgSuFHlA7BzB40dn3ZoNH6Q](https://github.com/user-attachments/assets/7f94c81e-abed-49e4-b3a0-35fedf969cd9)" />  |
+| DOM | Document Object Model | <a> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model | <img width="100" height="200" src="https://github.com/user-attachments/assets/39813ef5-b998-4363-9335-662d082b3eb7" /> |
+| API | Application Programming Interface | <a> https://aws.amazon.com/pt/what-is/api/ | <img width="100" height="200" src="https://github.com/user-attachments/assets/47df9ac5-a1e3-47a5-8713-c724c3248dbb" /> |
+| SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="https://github.com/user-attachments/assets/7f94c81e-abed-49e4-b3a0-35fedf969cd9)" />  |
             <h1 id="HTML" > HTML5 </h1>
             <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina. 
                   <br/>
             <img <img width="400" height="800" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
                   <br/>
-              As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML
+             <p> As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML
                     <br/>
-                    <a>https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
+                    <a> https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
                     <br/>
-            </p>
-                    
 ### Segue Abaixo alguns links com bons cursos com HTML 
 
 | Professor | Curso | Plataforma | Link |
@@ -41,6 +39,7 @@
 | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
  
+
 
 
 
