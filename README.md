@@ -7,9 +7,16 @@
       <h1> HTML5 </h1>
       <img width="100" height="200" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3814711d-a52a-485c-8d93-ced5c2ba877b" />
       <p> HTML é a linguagem de marcação do hiper texto desenvolvida pelo Tim Bernees-Lee, que também é famoso por ser o Pai da Internet, criada nos anos 90 o HTML está sendo atualizado e aprimorado e atualmente está na versão 5,
-      Nos dias de hoje a internet segue padrões da W3C (World Wide Web Consortium) veja todos no site oficial https://www.w3.org/.  
-       O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML(YPERTEXT MARKUP LANGUAGE), CSS(CASCADING STYLE SHEETS), SVG(SCALABLE VECTOR GRAPHICS), XML(EXTENSIBLE MARKUP LANGUAGE), WCMAG(WEB CONTENT ACESSIBILITY GUIDELINESS)
-      </p>
+      Nos dias de hoje a internet segue padrões da W3C  veja todos no site oficial https://www.w3.org/.  
+       O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML(YPERTEXT MARKUP LANGUAGE), CSS(CASCADING STYLE SHEETS), SVG(SCALABLE VECTOR GRAPHICS), XML(EXTENSIBLE MARKUP LANGUAGE), WCMAG(WEB CONTENT ACESSIBILITY GUIDELINESS)            
+### Confira Siglas Importantes 
+
+| Abreviatura | Por Extenso | Site | Logotipo |
+| --- | --- | --- | --- |
+| W3C | (World Wide Web Consortium) | <a> https://www.w3.org/  | <img> ![Sem-Título-2](https://github.com/user-attachments/assets/92660a3e-b21e-4e9e-abd6-c516b55b1a63) |
+|  |  |  |  |
+|  |  |  |  |
+             </p>
             <h1 id="HTML" > HTML5 </h1>
             <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina. 
                   <br/>
@@ -25,11 +32,12 @@
 
 | Professor | Curso | Plataforma | Link |
 | --- | --- | --- | --- |
-| Gustavo Guanabara | HTML 5 e CSS3 | YOUTUBE | <a> https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n | 
+| Gustavo Guanabara | HTML  e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n | 
 | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
       </div> 
 </div> 
+
 
 
 
