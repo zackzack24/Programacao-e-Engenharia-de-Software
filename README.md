@@ -4,7 +4,7 @@
       <img width="25%" height="15%" alt="sticker-png-circle-design-software-engineering-computer-software-technology-logo-federal-university-of-pampa-symbol-microsoft-azure" src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    
       <div id=textos>   
             <h1> HTML5 </h1>
-            <img width="40%" height="40%" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3814711d-a52a-485c-8d93-ced5c2ba877b" />
+            <img width="25%" height="15%" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3814711d-a52a-485c-8d93-ced5c2ba877b" />
             <p> HTML é a linguagem de marcação do hiper texto desenvolvida pelo Tim Bernees-Lee, que também é famoso por ser o Pai da Internet, criada nos anos 90 o HTML está sendo atualizado e aprimorado e atualmente está na versão 5,
             Nos dias de hoje a internet segue padrões da W3C. O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML, CSS, SVG, XML, WCMAG entre outros.  
       </div>
@@ -43,6 +43,7 @@
 </footer>
 
 </div>
+
 
 
 
