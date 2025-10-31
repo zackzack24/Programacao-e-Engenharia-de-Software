@@ -20,15 +20,14 @@
                     <a>https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
                     <br/>
             </p>
-            <p>
-                 <table> Segeue links de Cursos para HTML </table>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |                  
-            </p>
+### Segue abaixo alguns links de bons cursos com HTML 
+| Professor | Curso | Link |
+| Gustavo Guanabara | HTMK 5 e CSS3 | <a> https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n </a> |
+| Rafaella Ballerini | Curso Completo de HTML | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=1s </a> |
+| Otávio Miranda | HTML e CSS | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA</a> |
       </div> 
 </div> 
+
 
 
 
