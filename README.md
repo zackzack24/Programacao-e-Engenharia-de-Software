@@ -1,8 +1,8 @@
 <header id=cabecalho margin: 0 auto; > 
-<div id="readmeheader style="width: 100; height="200"; margin: 0 auto; border: 1px solid black; align: center>  
+<div id="readmeheader style="width: 100; height="200"; border: 1px solid black; align: center>  
       <img width="25%" height="15%" align: center src="https://github.com/user-attachments/assets/0cb82e3e-bc3b-408f-ab67-25c6bcd3ade0" /> 
       <img width="25%" height="15%" align: center src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    
-      <div id=textos>   
+      <div id=textos align: center>   
             <h1> HTML5 </h1>
             <img width="25%" height="15%" align: center src="https://github.com/user-attachments/assets/3814711d-a52a-485c-8d93-ced5c2ba877b" />
             <p align: center> HTML é a linguagem de marcação do hiper texto desenvolvida pelo Tim Bernees-Lee, que também é famoso por ser o Pai da Internet, criada nos anos 90 o HTML está sendo atualizado e aprimorado e atualmente está na versão 5,
@@ -12,7 +12,7 @@
 
 <nav align: center> 
       
-<div align="center">
+<div align= center>
       
 ### Confira Siglas Importantes 
 | Abreviatura | Por Extenso | Site | Logotipo |
@@ -44,6 +44,7 @@
 </div> 
 
 </nav>
+
 
 
 
