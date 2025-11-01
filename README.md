@@ -1,5 +1,5 @@
-<header id=cabecalho margin: 0 auto;> 
-<div id="readmeheader style="width: 100; height="200"; margin: 0 auto; border: 1px solid black; text-align: center >  
+<header id=cabecalho margin: 0 auto; align: center> 
+<div id="readmeheader style="width: 100; height="200"; margin: 0 auto; border: 1px solid black;>  
       <img width="25%" height="15%" alt="2721284" src="https://github.com/user-attachments/assets/0cb82e3e-bc3b-408f-ab67-25c6bcd3ade0" /> 
       <img width="25%" height="15%" alt="sticker-png-circle-design-software-engineering-computer-software-technology-logo-federal-university-of-pampa-symbol-microsoft-azure" src="https://github.com/user-attachments/assets/1d6f5033-2aef-49df-be90-7402a2b371aa" />    
       <div id=textos>   
@@ -9,9 +9,12 @@
             Nos dias de hoje a internet segue padrões da W3C. O w3c é uma organização Internacional que desenvolve normas e pilares da tecnologia web como o HTML, CSS, SVG, XML, WCMAG entre outros.  
       </div>
 </header>   
-            
-### Confira Siglas Importantes 
 
+<nav> 
+      
+<div align="center">
+      
+### Confira Siglas Importantes 
 | Abreviatura | Por Extenso | Site | Logotipo |
 | --- | --- | --- | --- |
 | W3C | World Wide Web Consortium | <a> https://www.w3.org/  | <img width="100" height="200" alt="download" src="https://github.com/user-attachments/assets/c5292ed3-eac2-4e8a-8ebd-44b30bfe4291" /> |
@@ -23,15 +26,13 @@
 | DOM | Document Object Model | <a> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model | <img width="100" height="200" src="https://github.com/user-attachments/assets/39813ef5-b998-4363-9335-662d082b3eb7" /> |
 | API | Application Programming Interface | <a> https://aws.amazon.com/pt/what-is/api/ | <img width="100" height="200" src="https://github.com/user-attachments/assets/47df9ac5-a1e3-47a5-8713-c724c3248dbb" /> |
 | SEO | Search Engine Optimization | <a> https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br | <img width="100" height="200" src="https://github.com/user-attachments/assets/1763f66b-09d9-4c83-8c7a-6e020319dba0" /> |
-<div> 
-      <p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina.                 
-      <img width="100%" height="100%" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
-      <p> As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML, existem também algumas tags que não precisam ser fechadas.
-      <a> https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
-      <br/>
-</div>                    
-<footer> 
-
+<p> Tag´s são etiquetas que usamos no HTML para marcar os elementos do nosso código, determinando onde ele começa e termina.    
+      
+<img width="100%" height="100%" alt="Elemento-HTML_cr" src="https://github.com/user-attachments/assets/c470b677-cec5-4c84-b610-265ec7ef25ef" />
+<p> As tags são abertas e fechadas usando os sinais de MAIOR(>) E MENOR(<), Veja no site abaixo uma pequena apostila com várias tags do HTML, existem também algumas tags que não precisam ser fechadas.
+<a> https://pt.slideshare.net/slideshow/html-tagschart-88247343/88247343</a>
+<br/>     
+      
 ### Segue Abaixo alguns links com bons cursos com HTML 
 
 | Professor | Curso | Plataforma | Link |
@@ -40,10 +41,9 @@
 | Rafaella Ballerini | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=Fhy-5CtVkiM |
 | Otávio Miranda | HTML e CSS | YOUTUBE | <a> https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA |
 
-</footer>
+</div> 
 
-</div>
-
+</nav>
 
 
 
